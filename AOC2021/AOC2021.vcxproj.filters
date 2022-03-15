@@ -27,4 +27,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Xsd Include="input1.txt">
+      <Filter>Resource Files</Filter>
+    </Xsd>
+  </ItemGroup>
 </Project>
